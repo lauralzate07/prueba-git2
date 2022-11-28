@@ -1,9 +1,3 @@
 Archivo adicional de prueba1 participante A
 
 Modificación 2 por participante B
-
-<<<<<<< HEAD
-Modificación del mismo archivo, participante A
-=======
-Modificación del mismo archivo, participante B
->>>>>>> d184f974cce24077cfd5c174eb60cdc0fef90af1
