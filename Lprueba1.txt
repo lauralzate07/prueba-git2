@@ -1,3 +1,5 @@
 Archivo adicional de prueba1 participante A
 
 Modificación 2 por participante B
+
+Modificación del mismo archivo, participante A
